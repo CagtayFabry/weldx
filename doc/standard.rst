@@ -21,6 +21,15 @@ The WelDX standard consists of the following schema definitions:
     schemas/datamodels.rst
     schemas/generic.rst
 
+Manifests
+#########
+
+The WelDX manifests map the supported tag and schema URIs.
+
+.. asdf-autoschemas::
+
+    manifests/*
+
 ASDF Extension
 ##############
 
